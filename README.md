@@ -31,3 +31,12 @@ The primary objective of this mini-project is to perform automatic segmentation 
 
 ## 📸 Screenshots
 This plot shows the transition from the original grayscale image to the final segmented closed contours. 
+
+<img width="1990" height="363" alt="download" src="https://github.com/user-attachments/assets/b80ed8c5-f6be-4b96-9e50-f722938e9112" />
+
+
+
+
+
+
+
